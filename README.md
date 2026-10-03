@@ -1,0 +1,11 @@
+lib/main.dart
+lib/models/memory_item.dart
+lib/models/memory_item.g.dart
+lib/screens/home_screen.dart
+lib/screens/add_memory_screen.dart
+lib/screens/memory_detail_screen.dart
+lib/screens/search_screen.dart
+lib/screens/reminders_screen.dart
+lib/services/storage_service.dart
+lib/services/ai_service.dart
+lib/utils/app_theme.dart
